@@ -22,8 +22,11 @@ Este repositório contém um projeto desenvolvido durante o curso da [Alura](htt
 
 ## Demonstração
 
-Você pode assistir a uma demonstração prática do projeto diretamente no meu LinkedIn:  
-[🔗 Acesse a demonstração aqui](https://www.linkedin.com/posts/felipecezarcruz_inovaaexaetourgente-visaetocomputacional-activity-7196867609546354692-q5SD?utm_source=share&utm_medium=member_desktop)
+<div align="center">
+  <a href="https://www.linkedin.com/posts/felipecezarcruz_inovaaexaetourgente-visaetocomputacional-activity-7196867609546354692-q5SD?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="pre-linkedin.png" alt="Demonstração do Projeto no LinkedIn">
+  </a>
+</div>
 
 ---
 
